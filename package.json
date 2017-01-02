@@ -1,0 +1,24 @@
+{
+  "name": "@agilatech/mock",
+  "version": "0.8.0",
+  "description": "Driver for mock sensor -- simply generates random numbers",
+  "main": "mock.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agilatech/mock.git"
+  },
+  "keywords": [
+    "sensor",
+    "mock",
+    "beaglebone",
+    "raspberry pi"
+  ],
+  "author": "Agilatech <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Agilatech/mock/issues"
+  },
+  "homepage": "https://github.com/Agilatech/mock#readme",
+  "dependencies": {
+  }
+}
